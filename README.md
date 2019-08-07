@@ -1,2 +1,2 @@
 # Blog_App
-A blog app created using semantic ui
+A RESTful Blog app created using semantic ui.
